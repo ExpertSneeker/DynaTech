@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.profelements</groupId>
     <artifactId>DynaTech</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-coreages.20261114</version>
 
     <name>DynaTech</name>
 
@@ -18,7 +18,7 @@
     <repositories>
         <repository>
             <id>paper-repo</id>
-            <url>https://repo.destroystokyo.com/repository/maven-public/</url>
+            <url>https://repo.papermc.io/repository/maven-public/</url>
         </repository>
 
         <repository>
